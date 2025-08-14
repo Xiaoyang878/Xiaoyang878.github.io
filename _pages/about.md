@@ -39,14 +39,12 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-
 # Honors and Awards 🎖
 - *2025* Outstanding Student from the State Key Laboratory of Processor Chips, ICT
 - *2023, 2024* Outstanding Student Scholarship, ICT
 - *2021* Finalist Award in Mathematical Contest in Modeling (MCM)
 - *2021* Innovation Scholarship, SDU
 - *2020* Scholarship of Academic Excellence, SDU
-
 
 # Educations
 <div style="text-align: left; margin: 8px 0;">
