@@ -31,10 +31,10 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport\\
+**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport**\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
 *AIDrugX Workshop, NeurIPS 2024* \\
-[**Code**](https://github.com/Xiaoyang878/GGFlow) 
+[**Code**](https://github.com/Xiaoyang878/GGFlow) \quad
 [**paper**](https://openreview.net/forum?id=K8RlXtMgzo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -53,11 +53,11 @@ GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport\\
 # Educations
 <div style="text-align: center; margin: 8px 0;">
   <img src="images/UCAS.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-  <span style="vertical-align: middle;">  <em>2022.09 - 2025.06</em>, Master, Institute of Computing Technology, Chinese Academy of Sciences. </span>
+  <span style="vertical-align: middle;"> <em>2022.09 - 2025.06</em>, Master, Institute of Computing Technology, Chinese Academy of Sciences. </span>
 </div>
 <div style="text-align: center; margin: 8px 0;">
   <img src="images/SDU.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-  <span style="vertical-align: middle;">  <em>2018.09 - 2022.06</em>, Undergraduate, Department of Computer Science and Technology, Shandong University.</span>
+  <span style="vertical-align: middle;"> <em>2018.09 - 2022.06</em>, Undergraduate, Department of Computer Science and Technology, Shandong University.</span>
 </div>
 
 # Internships
