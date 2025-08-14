@@ -28,14 +28,15 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport](https://openreview.net/forum?id=K8RlXtMgzo)
+*AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*
+*Transactions on Machine Learning Research (TMLR) 2025*
+**Xiaoyang Hou**, Tian Zhu*, Milong Ren, Dongbo Bu, Xin Gao, Chunming Zhang, Shiwei Sun (* equal contribution)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/Xiaoyang878/GGFlow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -55,12 +56,11 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
   <img src="images/UCAS.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
   <span style="vertical-align: middle;">  <em>2022.09 - 2025.06</em>, Master, Institute of Computing Technology, Chinese Academy of Sciences. </span>
 </div>
-
 <div style="text-align: center; margin: 8px 0;">
   <img src="images/SDU.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
   <span style="vertical-align: middle;">  <em>2018.09 - 2022.06</em>, Undergraduate, Department of Computer Science and Technology, Shandong University.</span>
 </div>
 
 # Internships
-- *2022.05 - 2022.08*, [Manycore Tech Inc.](https://www.kujiale.com/), Hangzhou, China.
 - *2025.03 - present*, [BioGeometry](https://www.biogeom.com/), Beijing, China.
+- *2022.05 - 2022.08*, [Manycore Tech Inc.](https://www.kujiale.com/), Hangzhou, China.
