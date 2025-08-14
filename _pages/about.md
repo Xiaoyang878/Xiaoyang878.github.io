@@ -51,9 +51,9 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 
 # Educations
-<img src="images/UCAS.png" width="18" height="18"> *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
+<img src="images/UCAS.png" width="18" height="18" style="vertical-align: middle;"> \quad *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
 
-<img src="images/SDU.png" width="18" height="18"> *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
+<img src="images/SDU.png" width="18" height="18" style="vertical-align: middle;"> \quad *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
 
 
 # Internships
