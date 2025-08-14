@@ -47,8 +47,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
- <img src="images/SDU.png" width="22" height="22"> *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
- <img src="images/UCAS.png" width="22" height="22"> *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
+<img src="images/SDU.png" width="22" height="22"> *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
+
+<img src="images/UCAS.png" width="22" height="22"> *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
 
 
 # 💻 Internships
