@@ -32,7 +32,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <div class='paper-box-text' markdown="1">
 
 [GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport](https://openreview.net/forum?id=K8RlXtMgzo) \\
-**Xiaoyang Hou**, Tian Zhu*, Milong Ren, Dongbo Bu, Xin Gao, Chunming Zhang, Shiwei Sun (* equal contribution) \\
+**Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
 *AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024* \\
 *Transactions on Machine Learning Research (TMLR) 2025* \\
 [**Code**](https://github.com/Xiaoyang878/GGFlow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -43,11 +43,11 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2025* Outstanding Student from the State Key Laboratory of Processor Chips. 
-- *2023, 2024* Outstanding Student Scholarshi. 
-- *2021* Finalist Award in Mathematical Contest in Modeling (MCM).
-- *2021* Innovation Scholarship.
-- *2020* Scholarship of Academic Excellence.
+- *2025* Outstanding Student from the State Key Laboratory of Processor Chips, ICT
+- *2023, 2024* Outstanding Student Scholarship, ICT
+- *2021* Finalist Award in Mathematical Contest in Modeling (MCM)
+- *2021* Innovation Scholarship, SDU
+- *2020* Scholarship of Academic Excellence, SDU
 
 
 # Educations
