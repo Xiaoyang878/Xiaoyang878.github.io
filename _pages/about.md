@@ -24,10 +24,8 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +39,8 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+
+# Honors and Awards 🎖
 - *2025* Outstanding Student from the State Key Laboratory of Processor Chips, ICT
 - *2023, 2024* Outstanding Student Scholarship, ICT
 - *2021* Finalist Award in Mathematical Contest in Modeling (MCM)
