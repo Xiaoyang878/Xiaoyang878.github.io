@@ -43,13 +43,17 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Outstanding Student from the State Key Laboratory of Processor Chips. 
+- *2023, 2024* Outstanding Student Scholarshi. 
+- *2021* Finalist Award in Mathematical Contest in Modeling (MCM).
+- *2021* Innovation Scholarship.
+- *2020* Scholarship of Academic Excellence.
+
 
 # 📖 Educations
-<img src="images/SDU.png" width="22" height="22"> *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
+<img src="images/SDU.png" width="20" height="20"> *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences. 
 
-<img src="images/UCAS.png" width="22" height="22"> *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
+<img src="images/UCAS.png" width="20" height="20"> *2018.09 - 2022.06*, Undergraduate, Department of Computer Science and Technology, Shandong University. 
 
 
 # 💻 Internships
