@@ -31,11 +31,11 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport](https://openreview.net/forum?id=K8RlXtMgzo) \\
+GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
-*AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024* \\
-*Transactions on Machine Learning Research (TMLR) 2025* \\
-[**Code**](https://github.com/Xiaoyang878/GGFlow) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+*AIDrugX Workshop, NeurIPS 2024* \\
+[**Code**](https://github.com/Xiaoyang878/GGFlow) 
+[**paper**](https://openreview.net/forum?id=K8RlXtMgzo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
