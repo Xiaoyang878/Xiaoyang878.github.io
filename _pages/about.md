@@ -33,6 +33,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 [**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
+*TMLR 2025* \\
 *AIDrugX Workshop, NeurIPS 2024* \\
 [**Code**](https://github.com/Xiaoyang878/GGFlow)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
