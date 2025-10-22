@@ -26,7 +26,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -41,7 +41,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
