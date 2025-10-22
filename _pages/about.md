@@ -33,16 +33,19 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 [**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
-*Published in AIDrugX Workshop, NeurIPS 2024 and TMLR 2025* \\
+*AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*\\
+*Transactions on Machine Learning Research (TMLR) 2025* \\
 <!-- *TMLR 2025* \\ -->
 [**Code**](https://github.com/Xiaoyang878/GGFlow)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
-*Published in Bioinformatics 2024* \\
+*Bioinformatics 2024* \\
 <!-- *TMLR 2025* \\ -->
 [**Code**](https://github.com/Xiaoyang878/GTAM)  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
