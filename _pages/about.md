@@ -34,8 +34,8 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 *AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*\\
 *Transactions on Machine Learning Research (TMLR) 2025* \\
 <!-- *TMLR 2025* \\ -->
-[**[Code]**](https://github.com/Xiaoyang878/GGFlow)
-<span style="color: gray;">Generating graph-structured data is crucial in various domains but remains challenging due to the complex interdependencies between nodes and edges. While diffusion models have demonstrated their superior generative capabilities, they often suffer from unstable training and inefficient sampling. To enhance generation performance and training stability, we propose GGFlow, a discrete flow matching generative model incorporating an efficient optimal transport for graph structures and it incorporates an edge-augmented graph transformer to enable direct communications among edges. Additionally, GGFlow introduces a novel goal-guided generation framework to control the generative trajectory of our model towards desired properties. GGFlow demonstrates superior performance on both unconditional and conditional generation tasks, outperforming existing baselines and underscoring its effectiveness and potential for wider application.</span>
+[**[Code]**](https://github.com/Xiaoyang878/GGFlow) \\
+<span style="color: gray;">We propose a discrete flow matching generative model incorporating an efficient optimal transport for graph structures and it incorporates an edge-augmented graph transformer to enable direct communications among edges. Additionally, GGFlow introduces a novel goal-guided generation framework to control the generative trajectory of our model towards desired properties. </span>
 </div>
 </div>
 
