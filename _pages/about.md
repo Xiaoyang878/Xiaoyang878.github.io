@@ -26,7 +26,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -41,7 +41,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
@@ -52,7 +52,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 </div>
 </div>
 
-- [EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841), **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Data Mining and Analytics, 2023**
+- [EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841), **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023**
 
 - [DMSS: An Attention-based Deep Learning Model for High-Quality Mass Spectrometry Prediction.](https://www.sciopen.com/article/10.26599/BDMA.2024.9020006), Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, **Xiaoyang Hou**, et al. **Data Mining and Analytics, 2023**
 
