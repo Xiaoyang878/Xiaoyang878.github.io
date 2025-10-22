@@ -28,26 +28,25 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 # Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
 [**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
 *AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*\\
 *Transactions on Machine Learning Research (TMLR) 2025* \\
 <!-- *TMLR 2025* \\ -->
-[**Code**](https://github.com/Xiaoyang878/GGFlow)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**[Code]**](https://github.com/Xiaoyang878/GGFlow)
+<span style="color: gray;">Generating graph-structured data is crucial in various domains but remains challenging due to the complex interdependencies between nodes and edges. While diffusion models have demonstrated their superior generative capabilities, they often suffer from unstable training and inefficient sampling. To enhance generation performance and training stability, we propose GGFlow, a discrete flow matching generative model incorporating an efficient optimal transport for graph structures and it incorporates an edge-augmented graph transformer to enable direct communications among edges. Additionally, GGFlow introduces a novel goal-guided generation framework to control the generative trajectory of our model towards desired properties. GGFlow demonstrates superior performance on both unconditional and conditional generation tasks, outperforming existing baselines and underscoring its effectiveness and potential for wider application.</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
 *Bioinformatics 2024* \\
 <!-- *TMLR 2025* \\ -->
-[**Code**](https://github.com/Xiaoyang878/GTAM)
+[**[Code]**](https://github.com/Xiaoyang878/GTAM)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
