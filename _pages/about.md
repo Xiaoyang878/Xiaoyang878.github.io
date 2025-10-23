@@ -54,11 +54,9 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023.** 
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' markdown="1">
 [**DMSS: An Attention-based Deep Learning Model for High-Quality Mass Spectrometry Prediction.**](https://www.sciopen.com/article/10.26599/BDMA.2024.9020006), \\
 Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, **Xiaoyang Hou**, et al. **Data Mining and Analytics, 2023.** 
-</div>
 </div>
 
 # Honors and Awards 
