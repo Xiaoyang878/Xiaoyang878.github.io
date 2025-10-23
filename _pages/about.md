@@ -29,7 +29,8 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport.**](https://openreview.net/forum?id=K8RlXtMgzo)  [**[Code]**](https://github.com/Xiaoyang878/GGFlow) \\
+[**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport.**](https://openreview.net/forum?id=K8RlXtMgzo) \\
+[**[Code]**](https://github.com/Xiaoyang878/GGFlow) \\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
 *AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*\\
 *Transactions on Machine Learning Research (TMLR) 2025* \\
@@ -42,7 +43,8 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**] (https://openreview.net/forum?id=K8RlXtMgzo) [**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
+[**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**] (https://openreview.net/forum?id=K8RlXtMgzo) \\
+[**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
 *Bioinformatics 2024* \\
 <!-- *TMLR 2025* \\ -->
