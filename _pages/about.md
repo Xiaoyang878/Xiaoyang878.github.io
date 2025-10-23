@@ -50,9 +50,9 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 </div>
 </div>
 
-- [EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841) ｜ [**[Code]**](https://github.com/Xiaoyang878/EMNgly), **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023 .** 
+- [EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841) ｜ [**[Code]**](https://github.com/Xiaoyang878/EMNgly), **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023.** 
 
-- [DMSS: An Attention-based Deep Learning Model for High-Quality Mass Spectrometry Prediction.](https://www.sciopen.com/article/10.26599/BDMA.2024.9020006), Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, **Xiaoyang Hou**, et al. **Data Mining and Analytics, 2023 .** 
+- [DMSS: An Attention-based Deep Learning Model for High-Quality Mass Spectrometry Prediction.](https://www.sciopen.com/article/10.26599/BDMA.2024.9020006), Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, **Xiaoyang Hou**, et al. **Data Mining and Analytics, 2023.** 
 
 # Honors and Awards 
 - *2025* Outstanding Student from the State Key Laboratory of Processor Chips, ICT
@@ -72,5 +72,5 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 </div>
 
 # Internships
-- *2025.03 - present*, [BioGeometry](https://www.biogeom.com/), Beijing, China.
+- *2025.03 - 2025.09*, [BioGeometry](https://www.biogeom.com/), Beijing, China.
 - *2022.05 - 2022.08*, [Manycore Tech Inc.](https://www.kujiale.com/), Hangzhou, China.
