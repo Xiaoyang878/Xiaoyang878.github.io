@@ -19,6 +19,8 @@ redirect_from:
 I am Xiaoyang Hou (侯晓阳 in Chinese)
 I am broadly focused on advanced deep learning techniques for unified biomolecule design methods and foundation models. I am passionate about developing new methods in biology and chemistry, particularly for computational drug design and discovery. 
 
+I have always embraced opportunities for collaboration and academic discussion—if my research resonates with you, or if you have questions to explore, please do not hesitate to reach out.
+
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=c52dSBwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
