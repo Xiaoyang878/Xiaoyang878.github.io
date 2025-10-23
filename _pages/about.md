@@ -49,11 +49,9 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 
 </div>
 </div>
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' markdown="1">
 [**EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.**](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841) | [**[Code]**](https://github.com/Xiaoyang878/EMNgly) \\
 **Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023.** 
-</div>
 </div>
 
 <div class='paper-box'>
