@@ -35,9 +35,9 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 *Transactions on Machine Learning Research (TMLR) 2025* \\
 <!-- *TMLR 2025* \\ -->
 
-<span style="color: gray;">We propose a discrete flow matching generative model incorporating an efficient optimal transport for graph structures and it incorporates an edge-augmented graph transformer to enable direct communications among edges. Additionally, GGFlow introduces a novel goal-guided generation framework to control the generative trajectory of our model towards desired properties. </span> \\
+<span style="color: gray;">We propose a discrete flow-matching generative model with efficient optimal transport for graphs, featuring an edge-augmented graph transformer for direct edge communications. We also introduces a novel goal-guided framework to control generation trajectories toward desired properties. </span> \\
 
-[**[Code]**](https://github.com/Xiaoyang878/GGFlow)\\
+[**[Code]**](https://github.com/Xiaoyang878/GGFlow)
 
 </div>
 </div>
@@ -50,7 +50,7 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 *Bioinformatics 2024* \\
 <!-- *TMLR 2025* \\ -->
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \\
-[**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
+[**[Code]**](https://github.com/Xiaoyang878/GTAM)
 </div>
 </div>
 
