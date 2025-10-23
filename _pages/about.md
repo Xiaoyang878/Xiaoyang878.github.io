@@ -36,19 +36,17 @@ I am broadly focused on advanced deep learning techniques for unified biomolecul
 <!-- *TMLR 2025* \\ -->
 
 <span style="color: gray;">We propose a discrete flow-matching generative model with efficient optimal transport for graphs, featuring an edge-augmented graph transformer for direct edge communications. We also introduces a novel goal-guided framework to control generation trajectories toward desired properties. </span> 
-
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo) ｜ [**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
+[**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo) | [**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
 **Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
 *Bioinformatics 2024* \\
-<!-- *TMLR 2025* \\ -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \\
+<span style="color: gray;">This method integrates innovative molecular encoders for 2D graphs and 3D conformations, accurately capturing geometric edge dependencies in molecular graphs. GTAM further employs two contrastive objectives to transfer edge information between 2D topology and 3D geometry, boosting encoder functionality. </span> 
+
 </div>
 </div>
 
