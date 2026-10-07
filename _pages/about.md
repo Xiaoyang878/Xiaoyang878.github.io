@@ -1,83 +1,50 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="intro" id="about-me">
+  <p>I am <strong>Xiaoyang Hou</strong> (<span lang="zh">侯晓阳</span> in Chinese), a PhD candidate at <strong>École Polytechnique Fédérale de Lausanne (EPFL)</strong>, co-supervised by <strong>Patrick Barth</strong> and <strong>Pierre Vandergheynst</strong>. I explore deep learning for biomolecular design and discovery.</p>
+  <p>My research focuses on unified biomolecule design methods and foundation models. I develop machine learning methods at the intersection of biology and chemistry, with a particular interest in <strong>computational drug design and discovery</strong>.</p>
+  <p><strong>I welcome opportunities for collaboration and academic discussion.</strong> Please feel free to <a href="mailto:{{ site.author.email }}">reach out</a> if you are interested in my research or have questions to explore.</p>
+</section>
 
-<span class='anchor' id='about-me'></span>
-I am Xiaoyang Hou (侯晓阳 in Chinese)
-I am broadly focused on advanced deep learning techniques for unified biomolecule design methods and foundation models. I am passionate about developing new methods in biology and chemistry, particularly for computational drug design and discovery. 
+<section class="content-section" id="publications">
+  <div class="section-heading publication-heading"><h2>Publications</h2><a class="view-all-link" href="{{ '/publications/' | relative_url }}">View all publications <span aria-hidden="true">→</span></a></div>
+  {% assign selected_publications = site.data.publications | where: 'selected', true %}
+  {% for paper in selected_publications %}
+    {% include publication.html paper=paper %}
+  {% endfor %}
+  <p class="section-note">* Equal contribution.</p>
+</section>
 
-I have always embraced opportunities for collaboration and academic discussion—if my research resonates with you, or if you have questions to explore, please do not hesitate to reach out.
-
-<!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=c52dSBwAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<section class="content-section" id="education">
+  <span id="educations" class="legacy-anchor" aria-hidden="true"></span>
+  <div class="section-heading"><h2>Education</h2></div>
+  <div class="timeline-item"><span class="education-logo" aria-label="EPFL">EPFL</span><div><p class="date">Oct 2026 — Present</p><h3>École Polytechnique Fédérale de Lausanne (EPFL)</h3><p class="education-lab">Laboratory of Protein and Cell Engineering</p><p class="education-degree">PhD Candidate</p></div></div>
+  <div class="timeline-item"><img src="{{ '/images/UCAS.png' | relative_url }}" width="44" height="44" alt="University of Chinese Academy of Sciences" loading="lazy"><div><p class="date">Sep 2022 — Jun 2025</p><h3>Institute of Computing Technology, Chinese Academy of Sciences</h3><p class="education-major">Computer Science and Technology</p><p class="education-degree">Master of Engineering</p></div></div>
+  <div class="timeline-item"><img src="{{ '/images/SDU.png' | relative_url }}" width="44" height="44" alt="Shandong University" loading="lazy"><div><p class="date">Sep 2018 — Jun 2022</p><h3>Shandong University</h3><p class="education-major">Computer Science and Technology</p><p class="education-degree">Bachelor of Engineering</p></div></div>
+</section>
 
-# Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ggflow.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<section class="content-section" id="internships">
+  <div class="section-heading"><h2>Internships</h2></div>
+  <div class="experience-item"><p class="date">Mar 2026 — Sep 2026</p><div class="experience-details"><h3><a href="https://www.epfl.ch/labs/barth-lab/">EPFL LPCE Lab ↗</a></h3><p>Research Intern</p><p>Led by Prof. Patrick Barth</p></div><p>Lausanne, Switzerland</p></div>
+  <div class="experience-item"><p class="date">Mar 2025 — Sep 2025</p><div class="experience-details"><h3><a href="https://www.biogeom.com/">BioGeometry ↗</a></h3><p>Research Intern</p><p>Supervised by <em>Dr. <a href="https://scholar.google.com/citations?user=0Um1Kz0AAAAJ&amp;hl=en">Chence Shi</a></em> and <em>Prof. <a href="https://scholar.google.com/citations?user=1ir6WUEAAAAJ&amp;hl=en">Jian Tang</a></em></p></div><p>Beijing, China</p></div>
+  <div class="experience-item"><p class="date">May 2022 — Aug 2022</p><div class="experience-details"><h3><a href="https://www.kujiale.com/">Manycore Tech Inc. ↗</a></h3><p>Research Intern</p><p>Supervised by <em>Prof. <a href="https://scholar.google.com/citations?hl=en&amp;user=vEcgp3AAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Zihan Zhou</a></em></p></div><p>Hangzhou, China</p></div>
+</section>
 
-[**GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport.**](https://openreview.net/forum?id=K8RlXtMgzo) | [**[Code]**](https://github.com/Xiaoyang878/GGFlow) \\
-**Xiaoyang Hou\***, Tian Zhu\*, Milong Ren, et al. (\* equal contribution) \\
-*AIDrugX Workshop, Neural Information Processing Systems (NeurIPS) 2024*\\
-*Transactions on Machine Learning Research (TMLR) 2025* \\
-<!-- *TMLR 2025* \\ -->
-
-<span style="color: gray;">We propose a discrete flow-matching generative model with efficient optimal transport for graphs, featuring an edge-augmented graph transformer for direct edge communications. We also introduces a novel goal-guided framework to control generation trajectories toward desired properties. </span> 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gtam.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness.**](https://openreview.net/forum?id=K8RlXtMgzo) | [**[Code]**](https://github.com/Xiaoyang878/GTAM)\\
-**Xiaoyang Hou\***, Tian Zhu\*, Milong Ren\*, et al. (\* equal contribution) \\
-*Bioinformatics 2024* \\
-<span style="color: gray;">This method integrates innovative molecular encoders for 2D graphs and 3D conformations, accurately capturing geometric edge dependencies in molecular graphs. GTAM further employs two contrastive objectives to transfer edge information between 2D topology and 3D geometry, boosting encoder functionality. </span> 
-
-</div>
-</div>
-<div class='paper-box' markdown="1">
-[**EMNGly: predicting N-linked glycosylation sites using the language models for feature extraction.**](https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841) | [**[Code]**](https://github.com/Xiaoyang878/EMNgly) \\
-**Xiaoyang Hou**, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al. **Bioinformatics, 2023.** 
-</div>
-
-<div class='paper-box' markdown="1">
-[**DMSS: An Attention-based Deep Learning Model for High-Quality Mass Spectrometry Prediction.**](https://www.sciopen.com/article/10.26599/BDMA.2024.9020006), \\
-Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, **Xiaoyang Hou**, et al. **Data Mining and Analytics, 2023.** 
-</div>
-
-# Honors and Awards 
-- *2025* Outstanding Student from the State Key Laboratory of Processor Chips, ICT
-- *2023, 2024* Outstanding Student Scholarship, ICT
-- *2021* Finalist Award in Mathematical Contest in Modeling (MCM)
-- *2021* Innovation Scholarship, SDU
-- *2020* Scholarship of Academic Excellence, SDU
-
-# Educations
-<div style="text-align: left; margin: 8px 0;">
-  &nbsp;<img src="images/UCAS.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-  <span style="vertical-align: middle;"> <em>2022.09 - 2025.06</em>, Master, Institute of Computing Technology, Chinese Academy of Sciences. </span>
-</div>
-<div style="text-align: left; margin: 8px 0;">
-  &nbsp;<img src="images/SDU.png" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
-  <span style="vertical-align: middle;"> <em>2018.09 - 2022.06</em>, Undergraduate, Department of Computer Science and Technology, Shandong University.</span>
-</div>
-
-# Internships
-- *2025.03 - 2025.09*, [BioGeometry](https://www.biogeom.com/), Beijing, China.
-- *2022.05 - 2022.08*, [Manycore Tech Inc.](https://www.kujiale.com/), Hangzhou, China.
+<section class="content-section" id="honors-and-awards">
+  <div class="section-heading"><h2>Honors &amp; awards</h2></div>
+  <ul class="dated-list">
+    <li><span class="date">2025</span><span>Outstanding Student, State Key Laboratory of Processor Chips, ICT</span></li>
+    <li><span class="date">2023, 2024</span><span>Outstanding Student Scholarship, ICT</span></li>
+    <li><span class="date">2021</span><span>Finalist Award, Mathematical Contest in Modeling (MCM)</span></li>
+    <li><span class="date">2021</span><span>Innovation Scholarship, Shandong University</span></li>
+    <li><span class="date">2020</span><span>Scholarship of Academic Excellence, Shandong University</span></li>
+  </ul>
+</section>

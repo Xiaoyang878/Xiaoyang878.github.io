@@ -1,0 +1,13 @@
+{% assign paper = include.paper %}
+<article class="publication{% if paper.image %} featured{% endif %}">
+  {% if paper.image %}
+  <a class="paper-image" href="{{ paper.paper_url }}" aria-label="Read {{ paper.title | escape }}"><img src="{{ paper.image | relative_url }}" width="{{ paper.image_width }}" height="{{ paper.image_height }}" alt="{{ paper.image_alt | escape }}" loading="lazy" decoding="async"></a>
+  {% endif %}
+  <div class="paper-body">
+    <p class="paper-venue">{{ paper.venue | escape }}</p>
+    <h3><a href="{{ paper.paper_url }}">{{ paper.title | escape }}</a></h3>
+    <p class="paper-authors">{{ paper.authors_html }}</p>
+    {% if paper.summary %}<p class="paper-summary">{{ paper.summary | escape }}</p>{% endif %}
+    <div class="paper-links">{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label | escape }} ↗</a>{% endfor %}</div>
+  </div>
+</article>

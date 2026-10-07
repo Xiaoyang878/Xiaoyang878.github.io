@@ -1,0 +1,80 @@
+[
+  {
+    "title": "GGFlow: A Graph Flow Matching Method with Efficient Optimal Transport",
+    "year": 2025,
+    "venue": "TMLR 2025 · NeurIPS AIDrugX Workshop 2024",
+    "authors_html": "<strong>Xiaoyang Hou*</strong>, Tian Zhu*, Milong Ren, et al.",
+    "paper_url": "https://openreview.net/forum?id=K8RlXtMgzo",
+    "selected": true,
+    "image": "/images/ggflow.png",
+    "image_width": 2086,
+    "image_height": 640,
+    "image_alt": "Overview of the GGFlow graph flow matching framework",
+    "summary": "Discrete flow matching with efficient optimal transport for graph generation. An edge-augmented graph transformer and a goal-guided framework steer generation toward desired properties.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=K8RlXtMgzo"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Xiaoyang878/GGFlow"
+      }
+    ]
+  },
+  {
+    "title": "GTAM: A Molecular Pretraining Model with Geometric Triangle Awareness",
+    "year": 2024,
+    "venue": "Bioinformatics 2024",
+    "authors_html": "<strong>Xiaoyang Hou*</strong>, Tian Zhu*, Milong Ren*, et al.",
+    "paper_url": "https://doi.org/10.1093/bioinformatics/btae524",
+    "selected": true,
+    "image": "/images/gtam.png",
+    "image_width": 1400,
+    "image_height": 807,
+    "image_alt": "Overview of GTAM molecular pretraining with geometric triangle awareness",
+    "summary": "Geometry-aware molecular encoders connect 2D topology and 3D conformations. Two contrastive objectives transfer edge information between these views to improve molecular representations.",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.1093/bioinformatics/btae524"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Xiaoyang878/GTAM"
+      }
+    ]
+  },
+  {
+    "title": "EMNGly: Predicting N-linked Glycosylation Sites Using the Language Models for Feature Extraction",
+    "year": 2023,
+    "venue": "Bioinformatics 2023",
+    "authors_html": "<strong>Xiaoyang Hou</strong>, Yu Wang, Dongbo Bu, Yaojun Wang, Shiwei Sun, et al.",
+    "paper_url": "https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841",
+    "selected": false,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://academic.oup.com/bioinformatics/article/39/11/btad650/7335841"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/Xiaoyang878/EMNgly"
+      }
+    ]
+  },
+  {
+    "title": "DMSS: An Attention-Based Deep Learning Model for High-Quality Mass Spectrometry Prediction",
+    "year": 2024,
+    "venue": "Big Data Mining and Analytics 2024",
+    "authors_html": "Yihui Ren, Yu Wang, Wenkai Han, Yikang Huang, <strong>Xiaoyang Hou</strong>, et al.",
+    "paper_url": "https://doi.org/10.26599/BDMA.2024.9020006",
+    "selected": false,
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://doi.org/10.26599/BDMA.2024.9020006"
+      }
+    ]
+  }
+]
