@@ -698,3 +698,7 @@ p+p {
   border-bottom:0;
   padding-bottom:0;
 }
+
+.intro a.supervisor-link {
+  color:#000;
+}

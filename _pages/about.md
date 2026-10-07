@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <section class="intro" id="about-me">
-  <p>I am <strong>Xiaoyang Hou</strong> (<span lang="zh">侯晓阳</span> in Chinese), a PhD candidate at <strong>École Polytechnique Fédérale de Lausanne (EPFL)</strong>, co-supervised by <strong><a href="https://scholar.google.com/citations?user=H7Y-wqQAAAAJ&amp;hl=en">Patrick Barth</a></strong> and <strong><a href="https://scholar.google.com/citations?user=1p9NOFEAAAAJ&amp;hl=en">Pierre Vandergheynst</a></strong>. I explore deep learning for biomolecular design and discovery.</p>
+  <p>I am <strong>Xiaoyang Hou</strong> (<span lang="zh">侯晓阳</span> in Chinese), a PhD candidate at <strong>École Polytechnique Fédérale de Lausanne (EPFL)</strong>, co-supervised by <strong><a class="supervisor-link" href="https://scholar.google.com/citations?user=H7Y-wqQAAAAJ&amp;hl=en">Patrick Barth</a></strong> and <strong><a class="supervisor-link" href="https://scholar.google.com/citations?user=1p9NOFEAAAAJ&amp;hl=en">Pierre Vandergheynst</a></strong>. I explore deep learning for biomolecular design and discovery.</p>
   <p>My research focuses on unified biomolecule design methods and foundation models. I develop machine learning methods at the intersection of biology and chemistry, with a particular interest in <strong>computational drug design and discovery</strong>.</p>
   <p><strong>I welcome opportunities for collaboration and academic discussion.</strong> Please feel free to <a href="mailto:{{ site.author.email }}">reach out</a> if you are interested in my research or have questions to explore.</p>
 </section>
